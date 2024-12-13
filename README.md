@@ -24,14 +24,14 @@ this full-stack app taught me how all the components of a full-stack app connect
 - Please note this app is still under process but the user account is complete and fully functional all I have to do now is add the rest of the features which mostly include being able to store things other than just text.
 
 - Website
-<img src="./assets/website.png" alt="Home" width="500" height="auto" />
+<img src="./assets/website.png" alt="Home" width="600" height="auto" />
 - SpringBoot
-<img src="./assets/sbcode.png" alt="Home" width="500" height="auto" />
+<img src="./assets/sbcode.png" alt="Home" width="600" height="auto" />
 - Postman API
-<img src="./assets/post.png" alt="Home" width="500" height="auto" />
+<img src="./assets/post.png" alt="Home" width="600" height="auto" />
 - SQL Database
-<img src="./assets/sql.png" alt="Home" width="500" height="auto" />
+<img src="./assets/sql.png" alt="Home" width="600" height="auto" />
 - SQL Database Table
-<img src="./assets/sqltable.png" alt="Home" width="500" height="auto" />
+<img src="./assets/sqltable.png" alt="Home" width="600" height="auto" />
 
 - Thank You
