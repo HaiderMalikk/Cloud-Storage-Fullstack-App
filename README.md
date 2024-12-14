@@ -33,5 +33,7 @@ this full-stack app taught me how all the components of a full-stack app connect
 <img src="./assets/sql.png" alt="Home" width="600" height="auto" />
 - SQL Database Table
 <img src="./assets/sqltable.png" alt="Home" width="600" height="auto" />
+- Server, A Raspberry Pi 4
+<img src="./assets/rpi4-server.png" alt="Home" width="600" height="auto" />
 
 - Thank You
