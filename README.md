@@ -3,7 +3,7 @@ This website’s backend is in spring boot which provides it access to the datab
 
 ** Compnents **
 - Backend:
-I started with a spring boot application, which controls the user data: for example, when a user creates a new account they input a name, username and email, The user model class has a class defined with attributes for this name and username, so think of it as user input where the input is to the user class. this data is passed to our user controller which maps and handles the data to the database.
+I started with a spring boot application, which controls the user data: for example, when a user creates a new account they input a name, username and email, The user model class has a class defined with attributes for this name and username, so think of it as user input where the input is to the user class. this data is passed to our user controller which maps and handles the data to the database. The backend springboot also has its own controller made using swingio, this backend controller is used to manage the springboots options, like for ex if its currently on/off accepting input, conected to the database etc. it also given insights like traffic and users connected to the springboot.
 
 - Postman Rest API
 I used Postman to send a rest API call to the spring boot application, this call gets or sends the user info input at the front end. The spring boot application then handles this call and maps it to the user model class, then this data is passed to the postman which then handles the data and maps it to the database.
